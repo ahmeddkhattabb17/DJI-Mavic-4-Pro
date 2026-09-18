@@ -1,10 +1,27 @@
-DJI Mavic 4 Pro is a sleek and responsive landing page inspired by DJI's flagship drone. Developed using HTML5 and CSS3 only, the project focuses on creating a premium user experience with a modern design, smooth layouts, and responsive styling. The website highlights the drone's key features, technical specifications, camera capabilities, flight performance, and product visuals while maintaining a clean and intuitive interface. This project demonstrates semantic HTML structure, advanced CSS styling, responsive web design, and attention to detail.
+# DJI Mavic 4 Pro
 
-Technologies Used
+A premium product landing page inspired by the visual language of a flagship drone product. The project focuses on product storytelling, technical highlights, photography, and responsive presentation.
 
-HTML5
-CSS3
-Responsive Design
-Flexbox
-CSS Grid
-CSS Animations (if used)
+## ✨ Features
+- Premium product hero section
+- Product specifications
+- Camera and flight highlights
+- Visual product storytelling
+- Responsive layouts
+- Modern CSS composition
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- Flexbox
+- CSS Grid
+- Responsive Web Design
+
+## 🚀 Run Locally
+Open `index.html` in a browser or serve the project with a static server.
+
+## 🎯 Portfolio Focus
+This project demonstrates premium product UI, visual hierarchy, responsive composition, and CSS-driven presentation.
+
+## 👤 Author
+Ahmed Khattab — Frontend Developer
