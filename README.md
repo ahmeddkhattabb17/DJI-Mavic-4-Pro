@@ -1,6 +1,6 @@
 # DJI Mavic 4 Pro
 
-A premium product landing page inspired by the visual language of a flagship drone product. The project focuses on product storytelling, technical highlights, photography, and responsive presentation.
+A premium product landing page inspired by the visual language of a flagship drone product, focused on product storytelling, technical highlights, photography, and responsive presentation.
 
 ## ✨ Features
 - Premium product hero section
@@ -21,7 +21,7 @@ A premium product landing page inspired by the visual language of a flagship dro
 Open `index.html` in a browser or serve the project with a static server.
 
 ## 🎯 Portfolio Focus
-This project demonstrates premium product UI, visual hierarchy, responsive composition, and CSS-driven presentation.
+Premium product UI, visual hierarchy, responsive composition, and CSS-driven presentation.
 
 ## 👤 Author
 Ahmed Khattab — Frontend Developer
