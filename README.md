@@ -2,7 +2,7 @@
 
 A premium product landing page inspired by the visual language of a flagship drone product, focused on product storytelling, technical highlights, photography, and responsive presentation.
 
-## ✨ Features
+## Features
 - Premium product hero section
 - Product specifications
 - Camera and flight highlights
@@ -10,18 +10,18 @@ A premium product landing page inspired by the visual language of a flagship dro
 - Responsive layouts
 - Modern CSS composition
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 - Flexbox
 - CSS Grid
 - Responsive Web Design
 
-## 🚀 Run Locally
+## Run Locally
 Open `index.html` in a browser or serve the project with a static server.
 
-## 🎯 Portfolio Focus
+## Portfolio Focus
 Premium product UI, visual hierarchy, responsive composition, and CSS-driven presentation.
 
-## 👤 Author
+## Author
 Ahmed Khattab — Frontend Developer
