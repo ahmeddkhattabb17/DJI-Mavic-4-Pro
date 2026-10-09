@@ -1,12 +1,16 @@
 # DJI Mavic 4 Pro
 
-A responsive product landing page concept for the DJI Mavic 4 Pro, focused on premium product presentation, clear information hierarchy, and an immersive visual experience.
+A responsive DJI Mavic 4 Pro product landing page concept developed as part of a front-end development assignment at Route Academy, focused on premium product presentation, clear information hierarchy, and an immersive visual experience.
 
 ## Project Overview
 
 This project explores how a high-end consumer drone can be presented through a polished web experience. The landing page is intended to highlight the product's design, camera capabilities, flight features, and key specifications while remaining accessible and usable across desktop, tablet, and mobile devices.
 
-This is an independent front-end project and is not affiliated with or endorsed by DJI.
+## Project Context
+
+This project was developed as part of a front-end development assignment at Route Academy. It focuses on applying HTML5 and CSS3 to create a responsive, product-focused landing page inspired by the DJI Mavic 4 Pro.
+
+This is an educational project created for learning and practice purposes. It is not affiliated with or endorsed by DJI.
 
 ## Planned Features
 
